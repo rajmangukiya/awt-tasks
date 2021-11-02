@@ -2,7 +2,7 @@
 const express =require('express')
 const mysql=require('mysql')
 
-const app=express();
+const app=express()
 
 //Create DB connection
 //Create Database
